@@ -1,0 +1,171 @@
+[2022-01-10T10:15:20.147Z] "-------------------------------------"
+[2022-01-10T10:15:20.147Z] "时间：" "2022/01/10 18:15:20"
+[2022-01-10T10:15:20.147Z] "-------------------------------------"
+[2022-01-10T10:15:20.147Z] "A- 对应的物体信息"
+[2022-01-10T10:15:20.147Z] [
+  {
+    id: 5791,
+    centerX: 131,
+    centerY: -279,
+    speed: 0,
+    direction: 25855,
+    height: 0,
+    length: 0,
+    width: 0,
+    source: 8,
+    type: 2,
+    convexHullsList: [
+      {
+        x: 149,
+        y: -285
+      }, 
+      {
+        x: 151,
+        y: -276
+      }, 
+      {
+        x: 120,
+        y: -279
+      }
+],
+    motionState: 1
+  }, 
+  {
+    id: 5795,
+    centerX: 495,
+    centerY: -193,
+    speed: 0,
+    direction: 25855,
+    height: 0,
+    length: 0,
+    width: 0,
+    source: 8,
+    type: 2,
+    convexHullsList: [
+      {
+        x: 499,
+        y: -192
+      }, 
+      {
+        x: 503,
+        y: -172
+      }, 
+      {
+        x: 478,
+        y: -188
+      }
+],
+    motionState: 1
+  }
+]
+[2022-01-10T10:15:20.147Z] "A 对应的物体信息"
+[2022-01-10T10:15:20.147Z] [
+  {
+    id: 5791,
+    centerX: 130,
+    centerY: -280,
+    speed: 0,
+    direction: 25855,
+    height: 0,
+    length: 0,
+    width: 0,
+    source: 8,
+    type: 2,
+    convexHullsList: [
+      {
+        x: 149,
+        y: -285
+      }, 
+      {
+        x: 153,
+        y: -266
+      }, 
+      {
+        x: 124,
+        y: -260
+      }, 
+      {
+        x: 120,
+        y: -279
+      }
+],
+    motionState: 1
+  }
+]
+[2022-01-10T10:15:20.147Z] "A+ 对应的物体信息"
+[2022-01-10T10:15:20.147Z] [
+  {
+    id: 5791,
+    centerX: 130,
+    centerY: -279,
+    speed: 0,
+    direction: 25855,
+    height: 0,
+    length: 0,
+    width: 0,
+    source: 8,
+    type: 2,
+    convexHullsList: [
+      {
+        x: 148,
+        y: -286
+      }, 
+      {
+        x: 150,
+        y: -276
+      }, 
+      {
+        x: 123,
+        y: -261
+      }, 
+      {
+        x: 119,
+        y: -280
+      }
+],
+    motionState: 1
+  }, 
+  {
+    id: 5796,
+    centerX: 590,
+    centerY: -96,
+    speed: 0,
+    direction: 57078,
+    height: 0,
+    length: 0,
+    width: 0,
+    source: 8,
+    type: 2,
+    convexHullsList: [
+      {
+        x: 594,
+        y: -119
+      }, 
+      {
+        x: 609,
+        y: -102
+      }, 
+      {
+        x: 604,
+        y: -70
+      }, 
+      {
+        x: 585,
+        y: -67
+      }, 
+      {
+        x: 572,
+        y: -84
+      }, 
+      {
+        x: 570,
+        y: -94
+      }, 
+      {
+        x: 585,
+        y: -118
+      }
+],
+    motionState: 0
+  }
+]
